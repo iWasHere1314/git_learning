@@ -5,4 +5,4 @@ Git tracks changes of files.
 Git push test.
 Git diff test.
 creating a new branch named dev.
-creating a new branch named named featurel.
+creating a new branch named featurel.
